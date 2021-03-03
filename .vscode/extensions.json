@@ -1,6 +1,6 @@
 {
     "recommendations": [
-        "eg2.tslint",
-        "msjsdiag.debugger-for-chrome"
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "octref.vetur"
     ]
 }
